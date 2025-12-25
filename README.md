@@ -18,3 +18,7 @@ are netowrk and webserver ports
 ## 9023 - 9999 Minecraft Server (reserved - or reserved for other services)
 
 ## 10000 im....
+
+
+## To-Do
+- Fix access rules for root ssh
