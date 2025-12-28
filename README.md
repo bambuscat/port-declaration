@@ -15,7 +15,10 @@ are netowrk and webserver ports
 ## 9016 - 9023 Minecraft Server Voice Chad
 (udp)
 
-## 9023 - 9999 Minecraft Server (reserved - or reserved for other services)
+## 9023 - 9031 Minecraft Websocket ports
+(tcp)
+
+## 9032 - 9999 Minecraft Server (reserved - or reserved for other services)
 
 ## 10000 im....
 
