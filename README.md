@@ -9,6 +9,9 @@ these are system ports and aint gonna be touched
 ## 8000 ish
 are netowrk and webserver ports
 
+## 8100 - 8199
+- Fileserver / or GP Services - Ports
+
 ## 9000 - 9015 Minecraft Server
 (tcp)
 
